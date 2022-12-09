@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css"  />
+      </head>
+  <body>
+    <img
+      src="https://i.imgur.com/8pTwPlXb.jpg"
+      />
+    <h1>Cute dog</h1>
+    <p>Seems young</p>
+  </body>
+</html>
